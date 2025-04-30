@@ -1,7 +1,6 @@
 from flask import Flask, render_template, request, jsonify, session
 from langdetect import detect
 from flask_cors import CORS
-import openai
 import faiss
 import json
 import os
@@ -72,30 +71,6 @@ with open('symptom_mapping_top20.json', 'r', encoding='utf-8') as f:
     symptom_mapping = json.load(f)
 
 # ---------------------- 核心逻辑 ----------------------
-
-def together_predict(user_input, disease_candidates):
-    prompt = f"""
-You are a medical triage assistant.
-Based on the following disease candidates:
-{', '.join(disease_candidates)}
-And based on the patient input:
-"{user_input}"
-Predict the most likely disease.
-Answer with only the disease name.
-"""
-    try:
-        response = openai.chat.completions.create(
-            model=MODEL_NAME,
-            messages=[{"role": "user", "content": prompt}],
-            temperature=0.2
-        )
-        prediction = response.choices[0].message.content.strip()
-        print(f"🟠 Together最终推测: {prediction}")
-        return prediction
-    except Exception as e:
-        print(f"🔴 Together推理失败: {e}")
-        return "推测失败"
-
 
 @app.route('/', methods=['GET'])
 def serve_frontend():
