@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <title>智能罕见病初筛助手 Rare Disease Early-Triage Assistant</title>
+  <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>👩‍⚕️ 智能罕见病初筛助手 Rare Disease Early-Triage Assistant</h1>
+    <div id="chat-box"></div>
+    <div id="loading" style="display: none;">🧐 正在思考中...</div>
+
+    <div class="input-area">
+      <input type="text" id="user-input" placeholder="请输入患者的描述 please describe the symptooms...">
+      <button onclick="sendMessage()">发送</button>
+    </div>
+
+    <!-- 🏥 推荐医院展示区 -->
+    <div id="hospitals-box" style="margin-top: 20px;">
+      <h3>🏥 推荐医院 Recommended Hospital</h3>
+      <ul id="hospitals-list"></ul>
+    </div>
+
+  <script src="/static/index.js"></script>
+</body>
+</html>

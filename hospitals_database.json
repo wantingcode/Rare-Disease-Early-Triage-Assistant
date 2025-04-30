@@ -1,0 +1,263 @@
+[
+  {
+    "name_zh": "北京协和医院",
+    "name_en": "Peking Union Medical College Hospital",
+    "address_zh": "北京市东城区帅府园1号",
+    "address_en": "1 Shuaifuyuan, Dongcheng District, Beijing, China",
+    "specialty_zh": "遗传代谢病、肝胆疾病",
+    "specialty_en": "Genetic Metabolism, Hepatobiliary Diseases",
+    "country": "CN",
+    "supported_diseases": [
+      { "en": "Alagille Syndrome", "zh": "阿拉杰里综合征" },
+      { "en": "Wilson Disease", "zh": "威尔逊病" }
+    ]
+  },
+  {
+    "name_zh": "上海瑞金医院",
+    "name_en": "Ruijin Hospital, Shanghai",
+    "address_zh": "上海市黄浦区瑞金二路197号",
+    "address_en": "197 Ruijin 2nd Road, Huangpu District, Shanghai, China",
+    "specialty_zh": "内分泌代谢病、罕见血液病",
+    "specialty_en": "Endocrinology and Rare Hematological Diseases",
+    "country": "CN",
+    "supported_diseases": [
+      { "en": "Phenylketonuria", "zh": "苯丙酮尿症" },
+      { "en": "Gaucher Disease", "zh": "戈谢病" }
+    ]
+  },
+  {
+    "name_zh": "华西医院",
+    "name_en": "West China Hospital, Sichuan University",
+    "address_zh": "四川省成都市武侯区国学巷37号",
+    "address_en": "37 Guoxue Lane, Wuhou District, Chengdu, Sichuan, China",
+    "specialty_zh": "神经肌肉病、呼吸系统罕见病",
+    "specialty_en": "Neuromuscular Disorders, Rare Pulmonary Diseases",
+    "country": "CN",
+    "supported_diseases": [
+      { "en": "Duchenne Muscular Dystrophy", "zh": "杜氏肌营养不良症" },
+      { "en": "Primary Ciliary Dyskinesia", "zh": "原发性纤毛运动障碍" }
+    ]
+  },
+  {
+    "name_zh": "湘雅医院",
+    "name_en": "Xiangya Hospital, Central South University",
+    "address_zh": "湖南省长沙市湘雅路87号",
+    "address_en": "87 Xiangya Road, Changsha, Hunan, China",
+    "specialty_zh": "遗传性血液病、神经发育异常",
+    "specialty_en": "Hereditary Hematologic Diseases, Neurodevelopmental Disorders",
+    "country": "CN",
+    "supported_diseases": [
+      { "en": "Sickle Cell Disease", "zh": "镰状细胞病" },
+      { "en": "Tuberous Sclerosis Complex", "zh": "结节性硬化症" }
+    ]
+  },
+  {
+    "name_zh": "中山大学附属第一医院",
+    "name_en": "The First Affiliated Hospital, Sun Yat-sen University",
+    "address_zh": "广东省广州市中山二路58号",
+    "address_en": "58 Zhongshan 2nd Road, Guangzhou, Guangdong, China",
+    "specialty_zh": "代谢遗传病、罕见肾病",
+    "specialty_en": "Metabolic Genetic Diseases, Rare Kidney Diseases",
+    "country": "CN",
+    "supported_diseases": [
+      { "en": "Fabry Disease", "zh": "法布里病" },
+      { "en": "Nephronophthisis", "zh": "肾小管间质性疾病" }
+    ]
+  },
+  {
+    "name_zh": "北京天坛医院",
+    "name_en": "Beijing Tiantan Hospital",
+    "address_zh": "北京市东城区天坛西里6号",
+    "address_en": "6 Tiantan Xili, Dongcheng District, Beijing, China",
+    "specialty_zh": "神经系统罕见病",
+    "specialty_en": "Rare Neurological Disorders",
+    "country": "CN",
+    "supported_diseases": [
+      { "en": "Ataxia Telangiectasia", "zh": "共济失调毛细血管扩张症" },
+      { "en": "Rett Syndrome", "zh": "雷特综合征" }
+    ]
+  },
+  {
+    "name_zh": "复旦大学附属儿科医院",
+    "name_en": "Children's Hospital of Fudan University",
+    "address_zh": "上海市万源路399号",
+    "address_en": "399 Wanyuan Road, Shanghai, China",
+    "specialty_zh": "儿科罕见病",
+    "specialty_en": "Pediatric Rare Diseases",
+    "country": "CN",
+    "supported_diseases": [
+      { "en": "Spinal Muscular Atrophy", "zh": "脊髓性肌萎缩症" },
+      { "en": "Hunter Syndrome", "zh": "亨特综合征" }
+    ]
+  },
+  {
+    "name_zh": "Mayo Clinic",
+    "name_en": "Mayo Clinic",
+    "address_zh": "美国明尼苏达州罗切斯特市",
+    "address_en": "Rochester, Minnesota, USA",
+    "specialty_zh": "神经肌肉疾病、肝胆罕见病",
+    "specialty_en": "Neuromuscular and Hepatobiliary Rare Diseases",
+    "country": "US",
+    "supported_diseases": [
+      { "en": "Tay-Sachs Disease", "zh": "泰-萨克斯病" },
+      { "en": "Primary Biliary Cholangitis", "zh": "原发性胆汁性胆管炎" }
+    ]
+  },
+  {
+    "name_zh": "Cleveland Clinic",
+    "name_en": "Cleveland Clinic",
+    "address_zh": "美国俄亥俄州克利夫兰市",
+    "address_en": "Cleveland, Ohio, USA",
+    "specialty_zh": "心脏及神经系统罕见病",
+    "specialty_en": "Rare Cardiovascular and Neurological Diseases",
+    "country": "US",
+    "supported_diseases": [
+      { "en": "Ehlers-Danlos Syndrome", "zh": "埃勒斯-丹洛斯综合征" },
+      { "en": "Myasthenia Gravis", "zh": "重症肌无力" }
+    ]
+  },
+  {
+    "name_zh": "Johns Hopkins Hospital",
+    "name_en": "Johns Hopkins Hospital",
+    "address_zh": "美国马里兰州巴尔的摩市",
+    "address_en": "Baltimore, Maryland, USA",
+    "specialty_zh": "遗传性代谢病、神经发育异常",
+    "specialty_en": "Genetic Metabolic Disorders, Neurodevelopmental Disorders",
+    "country": "US",
+    "supported_diseases": [
+      { "en": "Marfan Syndrome", "zh": "马凡综合征" },
+      { "en": "Rett Syndrome", "zh": "雷特综合征" }
+    ]
+  },
+  {
+    "name_zh": "哈佛医学院附属麻省总医院",
+    "name_en": "Massachusetts General Hospital, Harvard Medical School",
+    "address_zh": "美国马萨诸塞州波士顿市",
+    "address_en": "Boston, Massachusetts, USA",
+    "specialty_zh": "神经遗传性疾病",
+    "specialty_en": "Neurogenetic Disorders",
+    "country": "US",
+    "supported_diseases": [
+      { "en": "Neurofibromatosis Type 1", "zh": "神经纤维瘤病1型" },
+      { "en": "Charcot-Marie-Tooth Disease", "zh": "夏科-马里-图斯病" }
+    ]
+  },
+  {
+    "name_zh": "斯坦福大学医院",
+    "name_en": "Stanford Hospital",
+    "address_zh": "美国加利福尼亚州斯坦福市",
+    "address_en": "Stanford, California, USA",
+    "specialty_zh": "罕见免疫性疾病",
+    "specialty_en": "Rare Immunological Disorders",
+    "country": "US",
+    "supported_diseases": [
+      { "en": "Goodpasture Syndrome", "zh": "古德巴斯特综合征" },
+      { "en": "Behçet's Disease", "zh": "白塞病" }
+    ]
+  },
+  {
+    "name_zh": "NIH 罕见病研究中心",
+    "name_en": "NIH Rare Diseases Clinical Research Center",
+    "address_zh": "美国马里兰州贝塞斯达市",
+    "address_en": "Bethesda, Maryland, USA",
+    "specialty_zh": "综合性罕见病研究与治疗",
+    "specialty_en": "Comprehensive Rare Disease Research and Treatment",
+    "country": "US",
+    "supported_diseases": [
+      { "en": "Gaucher Disease", "zh": "戈谢病" },
+      { "en": "Mucopolysaccharidosis", "zh": "粘多糖贮积症" }
+    ]
+  },
+  {
+    "name_zh": "宾夕法尼亚大学附属医院",
+    "name_en": "Hospital of the University of Pennsylvania",
+    "address_zh": "美国宾夕法尼亚州费城市",
+    "address_en": "Philadelphia, Pennsylvania, USA",
+    "specialty_zh": "罕见代谢及神经系统疾病",
+    "specialty_en": "Rare Metabolic and Neurological Diseases",
+    "country": "US",
+    "supported_diseases": [
+      { "en": "Maple Syrup Urine Disease", "zh": "枫糖尿症" },
+      { "en": "Batten Disease", "zh": "巴滕病" }
+    ]
+  },
+  {
+    "name_zh": "四川大学华西第二医院",
+    "name_en": "West China Second University Hospital, Sichuan University",
+    "address_zh": "四川省成都市人民南路三段20号",
+    "address_en": "20 Section 3, Renmin South Road, Chengdu, Sichuan, China",
+    "specialty_zh": "妇产科及小儿罕见病",
+    "specialty_en": "Obstetric and Pediatric Rare Diseases",
+    "country": "CN",
+    "supported_diseases": [
+      { "en": "Congenital Adrenal Hyperplasia", "zh": "先天性肾上腺皮质增生症" },
+      { "en": "Noonan Syndrome", "zh": "努南综合征" }
+    ]
+  },
+  {
+    "name_zh": "上海交通大学医学院附属瑞金医院北院",
+    "name_en": "Ruijin Hospital North, Shanghai Jiao Tong University School of Medicine",
+    "address_zh": "上海市宝山区盘古路999号",
+    "address_en": "999 Pangu Road, Baoshan District, Shanghai, China",
+    "specialty_zh": "血液系统罕见病",
+    "specialty_en": "Rare Hematological Disorders",
+    "country": "CN",
+    "supported_diseases": [
+      { "en": "Thalassemia", "zh": "地中海贫血" },
+      { "en": "Hereditary Spherocytosis", "zh": "遗传性球形细胞增多症" }
+    ]
+  },
+  {
+    "name_zh": "中山大学孙逸仙纪念医院",
+    "name_en": "Sun Yat-sen Memorial Hospital, Sun Yat-sen University",
+    "address_zh": "广东省广州市沿江西路107号",
+    "address_en": "107 Yanjiangxi Road, Guangzhou, Guangdong, China",
+    "specialty_zh": "罕见免疫与风湿性疾病",
+    "specialty_en": "Rare Autoimmune and Rheumatological Diseases",
+    "country": "CN",
+    "supported_diseases": [
+      { "en": "Systemic Sclerosis", "zh": "系统性硬化症" },
+      { "en": "Mixed Connective Tissue Disease", "zh": "混合性结缔组织病" }
+    ]
+  },
+  {
+    "name_zh": "香港大学深圳医院",
+    "name_en": "University of Hong Kong-Shenzhen Hospital",
+    "address_zh": "广东省深圳市福田区海园一路1号",
+    "address_en": "1 Haiyuan 1st Road, Futian District, Shenzhen, Guangdong, China",
+    "specialty_zh": "儿童罕见病和神经系统疾病",
+    "specialty_en": "Pediatric and Neurological Rare Diseases",
+    "country": "CN",
+    "supported_diseases": [
+      { "en": "Spinal Muscular Atrophy", "zh": "脊髓性肌萎缩症" },
+      { "en": "Congenital Myasthenic Syndromes", "zh": "先天性肌无力综合征" }
+    ]
+  },
+  {
+    "name_zh": "德克萨斯大学安德森癌症中心",
+    "name_en": "The University of Texas MD Anderson Cancer Center",
+    "address_zh": "美国德克萨斯州休斯顿市",
+    "address_en": "Houston, Texas, USA",
+    "specialty_zh": "罕见肿瘤和血液病",
+    "specialty_en": "Rare Cancers and Hematological Disorders",
+    "country": "US",
+    "supported_diseases": [
+      { "en": "Erdheim-Chester Disease", "zh": "埃尔德海姆-切斯特病" },
+      { "en": "Langerhans Cell Histiocytosis", "zh": "朗格汉斯细胞组织细胞增生症" }
+    ]
+  },
+  {
+    "name_zh": "加州大学旧金山分校医学中心",
+    "name_en": "UCSF Medical Center, University of California, San Francisco",
+    "address_zh": "美国加利福尼亚州旧金山市",
+    "address_en": "San Francisco, California, USA",
+    "specialty_zh": "遗传代谢及神经发育疾病",
+    "specialty_en": "Genetic Metabolic and Neurodevelopmental Disorders",
+    "country": "US",
+    "supported_diseases": [
+      { "en": "Krabbe Disease", "zh": "克拉贝病" },
+      { "en": "Canavan Disease", "zh": "卡纳文病" }
+    ]
+  }
+]
+

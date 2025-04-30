@@ -1,0 +1,122 @@
+[
+  {
+    "disease_en": "Alagille Syndrome",
+    "disease_zh": "阿拉杰里综合征",
+    "description_en": "jaundice, bile duct obstruction, liver dysfunction, itching",
+    "description_zh": "皮肤发黄、眼白发黄、胆汁淤积、瘙痒"
+  },
+  {
+    "disease_en": "Crigler-Najjar Syndrome",
+    "disease_zh": "克里格-纳贾尔综合征",
+    "description_en": "severe jaundice, high bilirubin levels, no hemolysis",
+    "description_zh": "严重黄疸、高胆红素血症、无溶血性贫血"
+  },
+  {
+    "disease_en": "Marfan Syndrome",
+    "disease_zh": "马凡综合征",
+    "description_en": "tall stature, long limbs, heart valve problems, aortic enlargement",
+    "description_zh": "身材高瘦、四肢修长、心脏瓣膜异常、主动脉扩张"
+  },
+  {
+    "disease_en": "Gaucher Disease",
+    "disease_zh": "戈谢病",
+    "description_en": "enlarged spleen, bone pain, anemia, liver dysfunction",
+    "description_zh": "脾脏肿大、骨骼疼痛、贫血、肝功能异常"
+  },
+  {
+    "disease_en": "Duchenne Muscular Dystrophy",
+    "disease_zh": "杜氏肌营养不良症",
+    "description_en": "progressive muscle weakness, difficulty walking, respiratory problems",
+    "description_zh": "进行性肌无力、行走困难、呼吸问题"
+  },
+  {
+    "disease_en": "Fabry Disease",
+    "disease_zh": "法布里病",
+    "description_en": "pain in hands and feet, skin rash, kidney failure",
+    "description_zh": "手足疼痛、皮疹、肾功能衰竭"
+  },
+  {
+    "disease_en": "Pompe Disease",
+    "disease_zh": "庞贝病",
+    "description_en": "muscle weakness, breathing difficulty, enlarged heart",
+    "description_zh": "肌肉无力、呼吸困难、心脏肿大"
+  },
+  {
+    "disease_en": "Wilson Disease",
+    "disease_zh": "威尔逊病",
+    "description_en": "copper accumulation, liver failure, neurological symptoms",
+    "description_zh": "铜代谢异常、肝功能衰竭、神经系统症状"
+  },
+  {
+    "disease_en": "Rett Syndrome",
+    "disease_zh": "雷特综合征",
+    "description_en": "loss of motor skills, repetitive hand movements, cognitive impairment",
+    "description_zh": "运动技能丧失、重复性手部动作、认知障碍"
+  },
+  {
+    "disease_en": "Usher Syndrome",
+    "disease_zh": "阿谢综合征",
+    "description_en": "hearing loss, vision loss, balance problems",
+    "description_zh": "听力丧失、视力减退、平衡问题"
+  },
+  {
+    "disease_en": "Tay-Sachs Disease",
+    "disease_zh": "泰-萨克斯病",
+    "description_en": "neurological deterioration, muscle weakness, blindness",
+    "description_zh": "神经退行性变、肌肉无力、失明"
+  },
+  {
+    "disease_en": "Phenylketonuria (PKU)",
+    "disease_zh": "苯丙酮尿症",
+    "description_en": "intellectual disability, musty odor, light skin and hair",
+    "description_zh": "智力障碍、特殊体味、皮肤和头发颜色浅"
+  },
+  {
+    "disease_en": "Prader-Willi Syndrome",
+    "disease_zh": "普拉德-威利综合征",
+    "description_en": "insatiable appetite, obesity, low muscle tone",
+    "description_zh": "食欲亢进、肥胖、低肌张力"
+  },
+  {
+    "disease_en": "Noonan Syndrome",
+    "disease_zh": "努南综合征",
+    "description_en": "short stature, congenital heart defects, distinctive facial features",
+    "description_zh": "身材矮小、先天性心脏缺陷、面部特征独特"
+  },
+  {
+    "disease_en": "Ehlers-Danlos Syndrome",
+    "disease_zh": "埃勒斯-丹洛斯综合征",
+    "description_en": "hypermobile joints, stretchy skin, easy bruising",
+    "description_zh": "关节过度活动、皮肤弹性过高、容易淤伤"
+  },
+  {
+    "disease_en": "Alpha-1 Antitrypsin Deficiency",
+    "disease_zh": "α1抗胰蛋白酶缺乏症",
+    "description_en": "lung disease, liver disease, shortness of breath",
+    "description_zh": "肺疾病、肝疾病、呼吸急促"
+  },
+  {
+    "disease_en": "Cystic Fibrosis",
+    "disease_zh": "囊性纤维化",
+    "description_en": "persistent coughing, frequent lung infections, poor growth",
+    "description_zh": "持续咳嗽、频繁肺部感染、发育迟缓"
+  },
+  {
+    "disease_en": "Hereditary Angioedema",
+    "disease_zh": "遗传性血管性水肿",
+    "description_en": "recurrent swelling of limbs, face, intestinal tract",
+    "description_zh": "四肢、面部、肠道反复肿胀"
+  },
+  {
+    "disease_en": "Neurofibromatosis Type 1",
+    "disease_zh": "神经纤维瘤病I型",
+    "description_en": "skin spots, benign nerve tumors, bone deformities",
+    "description_zh": "皮肤斑点、良性神经瘤、骨骼畸形"
+  },
+  {
+    "disease_en": "Osteogenesis Imperfecta",
+    "disease_zh": "成骨不全症",
+    "description_en": "fragile bones, frequent fractures, short stature",
+    "description_zh": "骨质脆弱、频繁骨折、身材矮小"
+  }
+]

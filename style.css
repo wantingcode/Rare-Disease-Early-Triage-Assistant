@@ -1,0 +1,123 @@
+/* static/style.css */
+
+body {
+  font-family: 'Helvetica', sans-serif;
+  background: #f0f2f5;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 600px;
+  margin: 30px auto;
+  background: #ffffff;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  overflow: hidden;
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
+  color: #333;
+}
+
+#chat-box {
+  height: 400px;
+  overflow-y: auto;
+  padding: 10px;
+  border: 1px solid #ddd;
+  margin-bottom: 15px;
+  background: #fafafa;
+}
+
+.user-message {
+  text-align: right;
+  margin: 8px;
+  padding: 8px;
+  background: #d1e7dd;
+  display: inline-block;
+  border-radius: 12px;
+  max-width: 80%;
+}
+
+.ai-message {
+  text-align: left;
+  margin: 8px;
+  padding: 8px;
+  background: #e2e3e5;
+  display: inline-block;
+  border-radius: 12px;
+  max-width: 80%;
+}
+
+.hospital-message {
+  text-align: left;
+  margin: 8px;
+  padding: 8px;
+  background: #f8d7da;
+  display: inline-block;
+  border-radius: 12px;
+  max-width: 80%;
+  font-size: 14px;
+}
+
+.error-message {
+  text-align: center;
+  color: red;
+  margin: 8px;
+}
+
+.input-area {
+  display: flex;
+  gap: 8px;
+}
+
+.input-area input {
+  flex: 1;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+}
+
+.input-area button {
+  padding: 10px 20px;
+  background: #4caf50;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.input-area button:hover {
+  background: #45a049;
+}
+
+#loading {
+  text-align: center;
+  margin: 10px 0;
+  color: #555;
+}
+
+#modules-box {
+  margin-top: 20px;
+}
+
+#modules-box h3 {
+  margin-bottom: 8px;
+  font-size: 18px;
+}
+
+#modules-list li {
+  margin: 4px 0;
+}
+/* 🏥 推荐医院样式 */
+.hospital-item {
+  margin-bottom: 12px;
+  padding: 8px 12px;
+  border-left: 4px solid #4caf50;
+  background: #f6f6f6;
+  border-radius: 6px;
+  font-size: 14px;
+  line-height: 1.6;
+}

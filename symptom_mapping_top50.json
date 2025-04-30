@@ -1,0 +1,302 @@
+[
+  {
+    "disease_en": "Tay-Sachs Disease",
+    "disease_zh": "泰-萨克斯病",
+    "primary": ["Progressive muscle weakness", "进行性肌肉无力"],
+    "secondary": ["Vision loss", "视力丧失", "Seizures", "癫痫发作"]
+  },
+  {
+    "disease_en": "Crigler-Najjar Syndrome",
+    "disease_zh": "克里格勒-纳贾尔综合征",
+    "primary": ["Severe jaundice", "严重黄疸"],
+    "secondary": ["Enlarged liver", "肝脏肿大", "Fatigue", "疲劳"]
+  },
+  {
+    "disease_en": "Wilson Disease",
+    "disease_zh": "威尔逊病",
+    "primary": ["Copper accumulation in liver", "肝脏铜积累"],
+    "secondary": ["Tremors", "震颤", "Difficulty speaking", "言语困难"]
+  },
+  {
+    "disease_en": "Gaucher Disease",
+    "disease_zh": "戈谢病",
+    "primary": ["Enlarged spleen", "脾脏肿大"],
+    "secondary": ["Bone pain", "骨痛", "Anemia", "贫血"]
+  },
+  {
+    "disease_en": "Pompe Disease",
+    "disease_zh": "庞贝氏病",
+    "primary": ["Muscle weakness", "肌肉无力"],
+    "secondary": ["Breathing problems", "呼吸困难", "Feeding difficulties", "喂养困难"]
+  },
+  {
+    "disease_en": "Alport Syndrome",
+    "disease_zh": "阿尔波特综合征",
+    "primary": ["Hematuria", "血尿"],
+    "secondary": ["Hearing loss", "听力丧失", "Vision problems", "视力问题"]
+  },
+  {
+    "disease_en": "Cystic Fibrosis",
+    "disease_zh": "囊性纤维化",
+    "primary": ["Persistent coughing", "持续咳嗽"],
+    "secondary": ["Lung infections", "肺部感染", "Poor growth", "生长不良"]
+  },
+  {
+    "disease_en": "Spinal Muscular Atrophy",
+    "disease_zh": "脊髓性肌萎缩症",
+    "primary": ["Muscle wasting", "肌肉萎缩"],
+    "secondary": ["Breathing weakness", "呼吸肌无力", "Poor motor development", "运动发育迟缓"]
+  },
+  {
+    "disease_en": "Marfan Syndrome",
+    "disease_zh": "马凡综合征",
+    "primary": ["Tall thin stature", "高瘦体型"],
+    "secondary": ["Long arms", "长臂", "Heart valve problems", "心脏瓣膜问题"]
+  },
+  {
+    "disease_en": "Duchenne Muscular Dystrophy",
+    "disease_zh": "杜氏肌营养不良症",
+    "primary": ["Progressive muscle degeneration", "进行性肌肉退化"],
+    "secondary": ["Difficulty walking", "行走困难", "Respiratory issues", "呼吸问题"]
+  },
+  {
+    "disease_en": "Phenylketonuria (PKU)",
+    "disease_zh": "苯丙酮尿症",
+    "primary": ["Musty odor in breath, skin, or urine", "呼吸、皮肤或尿液有霉味"],
+    "secondary": ["Seizures", "癫痫发作", "Skin rashes", "皮疹"]
+  },
+  {
+    "disease_en": "Hurler Syndrome",
+    "disease_zh": "赫勒综合征",
+    "primary": ["Coarse facial features", "面部特征粗糙"],
+    "secondary": ["Cloudy corneas", "角膜浑浊", "Hearing loss", "听力丧失"]
+  },
+  {
+    "disease_en": "Maple Syrup Urine Disease",
+    "disease_zh": "枫糖尿症",
+    "primary": ["Sweet-smelling urine", "尿液有甜味"],
+    "secondary": ["Poor feeding", "喂养困难", "Lethargy", "嗜睡"]
+  },
+  {
+    "disease_en": "Neurofibromatosis Type 1",
+    "disease_zh": "神经纤维瘤病1型",
+    "primary": ["Café-au-lait spots", "皮肤上的咖啡斑"],
+    "secondary": ["Freckling in armpits", "腋窝雀斑", "Lumps on nerves", "神经上出现肿块"]
+  },
+  {
+    "disease_en": "Osteogenesis Imperfecta",
+    "disease_zh": "成骨不全症",
+    "primary": ["Fragile bones", "骨骼脆弱"],
+    "secondary": ["Blue sclera", "蓝色巩膜", "Hearing loss", "听力丧失"]
+  },
+  {
+    "disease_en": "Rett Syndrome",
+    "disease_zh": "雷特综合征",
+    "primary": ["Loss of purposeful hand skills", "失去有目的性的手部技能"],
+    "secondary": ["Loss of speech", "失语症", "Breathing abnormalities", "呼吸异常"]
+  },
+  {
+    "disease_en": "Sickle Cell Anemia",
+    "disease_zh": "镰状细胞贫血",
+    "primary": ["Episodes of pain", "疼痛发作"],
+    "secondary": ["Swelling of hands and feet", "手脚肿胀", "Frequent infections", "频繁感染"]
+  },
+  {
+    "disease_en": "Thalassemia",
+    "disease_zh": "地中海贫血",
+    "primary": ["Fatigue", "疲劳"],
+    "secondary": ["Pale skin", "皮肤苍白", "Delayed growth", "生长迟缓"]
+  },
+  {
+    "disease_en": "Tuberous Sclerosis",
+    "disease_zh": "结节性硬化症",
+    "primary": ["Seizures", "癫痫发作"],
+    "secondary": ["Skin abnormalities", "皮肤异常", "Developmental delay", "发育迟缓"]
+  },
+  {
+    "disease_en": "Usher Syndrome",
+    "disease_zh": "阿谢综合征",
+    "primary": ["Hearing loss", "听力丧失"],
+    "secondary": ["Vision loss", "视力丧失", "Balance problems", "平衡问题"]
+  },
+  {
+    "disease_en": "Xeroderma Pigmentosum",
+    "disease_zh": "着色性干皮病",
+    "primary": ["Extreme sensitivity to sunlight", "对阳光极度敏感"],
+    "secondary": ["Freckling", "雀斑", "Dry skin", "干燥皮肤"]
+  },
+  {
+    "disease_en": "Angelman Syndrome",
+    "disease_zh": "天使综合征",
+    "primary": ["Severe developmental delays", "严重发育迟缓"],
+    "secondary": ["Happy demeanor", "快乐的举止", "Speech impairment", "语言障碍"]
+  },
+  {
+    "disease_en": "Canavan Disease",
+    "disease_zh": "卡纳文病",
+    "primary": ["Macrocephaly", "大头畸形"],
+    "secondary": ["Poor muscle tone", "肌张力低", "Feeding difficulties", "喂养困难"]
+  },
+  {
+    "disease_en": "Ehlers-Danlos Syndrome",
+    "disease_zh": "埃勒斯-当洛综合征",
+    "primary": ["Hypermobile joints", "关节过度活动"],
+    "secondary": ["Stretchy skin", "弹性皮肤", "Fragile skin", "皮肤脆弱"]
+  },
+  {
+    "disease_en": "Prader-Willi Syndrome",
+    "disease_zh": "普瑞德-威利综合征",
+    "primary": ["Chronic hunger", "持续饥饿感"],
+    "secondary": ["Low muscle tone", "低肌张力", "Short stature", "身材矮小"]
+  },
+  {
+    "disease_en": "Noonan Syndrome",
+    "disease_zh": "努南综合征",
+    "primary": ["Short stature", "身材矮小"],
+    "secondary": ["Congenital heart defects", "先天性心脏缺陷", "Broad or webbed neck", "宽颈或颈部有皮肤褶"]
+  },
+  {
+    "disease_en": "Ataxia-Telangiectasia",
+    "disease_zh": "共济失调-毛细血管扩张症",
+    "primary": ["Poor coordination", "协调性差"],
+    "secondary": ["Slurred speech", "言语不清", "Dilated blood vessels in eyes", "眼部血管扩张"]
+  },
+  {
+    "disease_en": "Friedreich's Ataxia",
+    "disease_zh": "弗里德里希共济失调",
+    "primary": ["Difficulty walking", "行走困难"],
+    "secondary": ["Heart disease", "心脏病", "Scoliosis", "脊柱侧弯"]
+  },
+  {
+    "disease_en": "Hunter Syndrome",
+    "disease_zh": "亨特综合征",
+    "primary": ["Thickening of facial features", "面部特征增厚"],
+    "secondary": ["Joint stiffness", "关节僵硬", "Hearing loss", "听力丧失"]
+  },
+  {
+    "disease_en": "Leigh Syndrome",
+    "disease_zh": "李氏综合征",
+    "primary": ["Developmental regression", "发育倒退"],
+    "secondary": ["Breathing problems", "呼吸问题", "Difficulty eating", "进食困难"]
+  },
+  {
+    "disease_en": "Menkes Disease",
+    "disease_zh": "门克斯病",
+    "primary": ["Brittle, kinky hair", "脆弱卷曲的头发"],
+    "secondary": ["Failure to thrive", "生长发育障碍", "Seizures", "癫痫发作"]
+  },
+  {
+    "disease_en": "Smith-Lemli-Opitz Syndrome",
+    "disease_zh": "史密斯-莱姆利-奥匹茨综合征",
+    "primary": ["Distinctive facial features", "特殊面部特征"],
+    "secondary": ["Polydactyly", "多指（趾）畸形", "Genital abnormalities", "生殖器异常"]
+  },
+  {
+    "disease_en": "Batten Disease",
+    "disease_zh": "巴顿病",
+    "primary": ["Vision loss", "视力丧失"],
+    "secondary": ["Seizures", "癫痫发作", "Motor decline", "运动能力下降"]
+  },
+  {
+    "disease_en": "Alkaptonuria",
+    "disease_zh": "黑尿症",
+    "primary": ["Dark urine", "尿液颜色变深"],
+    "secondary": ["Joint pain", "关节疼痛", "Heart problems", "心脏问题"]
+  },
+  {
+    "disease_en": "Charcot-Marie-Tooth Disease",
+    "disease_zh": "夏科-玛丽-图斯病",
+    "primary": ["Muscle weakness", "肌肉无力"],
+    "secondary": ["High foot arches", "高弓足", "Foot drop", "垂足"]
+  },
+  {
+    "disease_en": "Hereditary Angioedema",
+    "disease_zh": "遗传性血管性水肿",
+    "primary": ["Swelling of limbs, face, or airway", "四肢、面部或气道肿胀"],
+    "secondary": ["Abdominal pain", "腹痛", "Breathing difficulty", "呼吸困难"]
+  },
+  {
+    "disease_en": "Juvenile Huntington Disease",
+    "disease_zh": "青少年型亨廷顿病",
+    "primary": ["Behavioral disturbances", "行为异常"],
+    "secondary": ["Rigidity", "僵硬", "Seizures", "癫痫发作"]
+  },
+  {
+    "disease_en": "Morquio Syndrome",
+    "disease_zh": "莫科病",
+    "primary": ["Short stature", "矮小身材"],
+    "secondary": ["Abnormal bone development", "骨骼发育异常", "Joint problems", "关节问题"]
+  },
+  {
+    "disease_en": "Patau Syndrome",
+    "disease_zh": "帕陶综合征",
+    "primary": ["Severe intellectual disability", "严重智力障碍"],
+    "secondary": ["Polydactyly", "多指（趾）畸形", "Cleft lip or palate", "唇裂或腭裂"]
+  },
+  {
+    "disease_en": "Zellweger Spectrum Disorder",
+    "disease_zh": "泽尔韦格综合征",
+    "primary": ["Poor muscle tone", "肌张力差"],
+    "secondary": ["Feeding difficulties", "喂养困难", "Liver dysfunction", "肝功能异常"]
+  },
+  {
+    "disease_en": "Alagille Syndrome",
+    "disease_zh": "阿拉杰里综合症",
+    "primary": ["Bile duct paucity", "胆管发育不全"],
+    "secondary": ["Cholestasis", "胆汁淤积", "Distinctive facial features", "特殊面部特征"]
+  },
+  {
+    "disease_en": "Treacher Collins Syndrome",
+    "disease_zh": "特雷彻-柯林斯综合征",
+    "primary": ["Facial bone underdevelopment", "面部骨骼发育不良"],
+    "secondary": ["Cleft palate", "腭裂", "Hearing loss", "听力丧失"]
+  },
+  {
+    "disease_en": "Mucopolysaccharidosis Type I (Hurler Syndrome)",
+    "disease_zh": "粘多糖贮积症I型（赫勒综合征）",
+    "primary": ["Coarse facial features", "粗糙面容"],
+    "secondary": ["Organomegaly", "器官肿大", "Skeletal abnormalities", "骨骼异常"]
+  },
+  {
+    "disease_en": "Homocystinuria",
+    "disease_zh": "高半胱氨酸尿症",
+    "primary": ["Lens dislocation", "晶状体脱位"],
+    "secondary": ["Thromboembolism", "血栓栓塞", "Developmental delay", "发育迟缓"]
+  },
+  {
+    "disease_en": "Krabbe Disease",
+    "disease_zh": "克拉贝病",
+    "primary": ["Irritability", "易怒"],
+    "secondary": ["Muscle stiffness", "肌肉僵硬", "Feeding difficulties", "喂养困难"]
+  },
+  {
+    "disease_en": "Bardet-Biedl Syndrome",
+    "disease_zh": "巴尔德-比德尔综合征",
+    "primary": ["Obesity", "肥胖"],
+    "secondary": ["Retinal degeneration", "视网膜退化", "Polydactyly", "多指（趾）畸形"]
+  },
+  {
+    "disease_en": "Ellis-van Creveld Syndrome",
+    "disease_zh": "埃利斯-范克雷维尔德综合征",
+    "primary": ["Short stature", "矮小身材"],
+    "secondary": ["Polydactyly", "多指（趾）畸形", "Heart defects", "心脏缺陷"]
+  },
+  {
+    "disease_en": "Seckel Syndrome",
+    "disease_zh": "塞克尔综合征",
+    "primary": ["Severe growth retardation", "严重生长迟缓"],
+    "secondary": ["Microcephaly", "小头畸形", "Intellectual disability", "智力障碍"]
+  },
+  {
+    "disease_en": "Wolfram Syndrome",
+    "disease_zh": "沃尔夫拉姆综合征",
+    "primary": ["Diabetes insipidus", "尿崩症"],
+    "secondary": ["Diabetes mellitus", "糖尿病", "Vision loss", "视力丧失"]
+  },
+  {
+    "disease_en": "Jeune Syndrome",
+    "disease_zh": "朱恩综合征",
+    "primary": ["Small narrow chest", "胸腔狭窄"],
+    "secondary": ["Respiratory problems", "呼吸问题", "Skeletal abnormalities", "骨骼异常"]
+  }
+]

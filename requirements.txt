@@ -1,0 +1,5 @@
+Flask
+gunicorn
+faiss-cpu
+sentence-transformers
+langdetect
